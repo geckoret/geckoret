@@ -1,4 +1,4 @@
-# Hi there 👋, I'm nowpy!
+# Hi there 👋, I'm geckoret!
 
 I'm a young tech enthusiast who loves programming and exploring new technologies. I have experience with languages like **JavaScript**, **Python**, **C++**, and **C#**. I'm not a master yet, but I'm learning and improving every day! 💪
 
