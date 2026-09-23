@@ -17,4 +17,4 @@ One of my greatest passions is creating my own programs and games 🎮. I’m ai
 Feel free to explore my repositories, ask questions, or just connect! Let's grow together in the world of technology! ✨
 
 ## How to reach me 📫:
-- Email: [hi@nowpy.dev](mailto:hi@nowpy.dev)
+- Email: [contact@geckoret.dev](mailto:contact@geckoret.dev)
